@@ -9,9 +9,3 @@ header {
   background-repeat: no-repeat;
   background-position: 20px center;
 }
-
-header span {
-  width: 40px;
-  object-fit: cover;
-  aspect-ratio: 1/1;
-}
