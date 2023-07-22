@@ -92,3 +92,16 @@ li h2 {
 li {
   list-style: none;
 }
+
+
+@media only screen and (max-width: 600px)  {
+  .filters {
+    width: auto;
+    margin: 10px;
+  }
+
+  .filters .locations,
+  .filters .amenities {
+    padding-inline: 0;
+  }
+}
